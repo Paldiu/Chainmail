@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a10c035f-3136-4a06-841f-0569882b4bf7" name="Default Changelist" comment="" />
+    <list default="true" id="a10c035f-3136-4a06-841f-0569882b4bf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/CheaperChains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/Chainmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/Chainmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -28,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -50,29 +61,29 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1594431018212" />
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594433176611">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594484859921">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594433176611" />
-    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594433176611">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594484859921" />
+    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594484859921">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594433176611" />
-    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594433176610">
+    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594484859921" />
+    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594484859920">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594433176610" />
-    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594433176611">
+    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594484859920" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594484859921">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594433176611" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594433149112">
+    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594484859921" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594482989645">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594433149112" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594432413312">
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1594482989645" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594484613684">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1594432413312" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1594484613684" />
   </component>
 </project>
