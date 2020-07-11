@@ -1,0 +1,6 @@
+name: Chainmail
+main: dev.coomware.Chainmail
+version: 1.0.0-FINAL
+description: Plugin which adds a recipe for chainmail armor using chains.
+author: CoomWare
+api-version: 1.16
