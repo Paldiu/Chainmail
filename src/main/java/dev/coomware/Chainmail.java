@@ -1,5 +1,6 @@
 package dev.coomware;
 
+import org.bstats.Metrics;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
@@ -11,6 +12,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Chainmail extends JavaPlugin {
     public static Chainmail plugin;
     public Server server;
+    private int pluginId = 8177;
 
     @Override
     public void onLoad() {
@@ -20,10 +22,13 @@ public class Chainmail extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        Metrics metrics = new Metrics(this, pluginId);
+        Bukkit.getLogger().info("[Chainmail] Successfully loaded bStats plugin metrics.");
+
         new CheaperChains(this);
         newRecipes();
-        Bukkit.getLogger().info("Successfully added new recipes for chainmail armor.");
-        Bukkit.getLogger().info("This plugin was made by CoomWare.");
+        Bukkit.getLogger().info("[Chainmail] Successfully added new recipes for chainmail armor.");
+        Bukkit.getLogger().info("[Chainmail] This plugin was made by CoomWare.");
     }
 
     @Override

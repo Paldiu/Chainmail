@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10c035f-3136-4a06-841f-0569882b4bf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bstats/Metrics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/CheaperChains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/CheaperChains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Chainmail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/coomware/Chainmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/coomware/Chainmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Chainmail-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dev/coomware/Chainmail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dev/coomware/Chainmail.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/dev/coomware/CheaperChains.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dev/coomware/CheaperChains.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +31,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -61,22 +73,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1594431018212" />
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594490934355">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom" timestamp="1594656274761">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594490934355" />
-    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594490934355">
+    <state width="1236" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1594656274761" />
+    <state width="1236" height="176" key="GridCell.Tab.0.center" timestamp="1594656274761">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594490934355" />
-    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594490934354">
+    <state width="1236" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1594656274761" />
+    <state width="1236" height="176" key="GridCell.Tab.0.left" timestamp="1594656274761">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594490934354" />
-    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594490934355">
+    <state width="1236" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1594656274761" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right" timestamp="1594656274761">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594490934355" />
+    <state width="1236" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1594656274761" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594486161225">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
