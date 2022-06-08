@@ -1,4 +1,4 @@
-package dev.coomware;
+package io.github.simplex;
 
 import org.bstats.Metrics;
 import org.bukkit.Bukkit;
@@ -12,7 +12,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Chainmail extends JavaPlugin {
     public static Chainmail plugin;
     public Server server;
-    private int pluginId = 8177;
 
     @Override
     public void onLoad() {
@@ -22,7 +21,7 @@ public class Chainmail extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        Metrics metrics = new Metrics(this, pluginId);
+        Metrics metrics = new Metrics(this, 8177);
         Bukkit.getLogger().info("[Chainmail] Successfully loaded bStats plugin metrics.");
 
         new CheaperChains(this);

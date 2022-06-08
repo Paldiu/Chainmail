@@ -1,12 +1,12 @@
-dev\coomware\Chainmail.class
 org\bstats\Metrics$SimpleBarChart.class
+io\github\simplex\Chainmail.class
 org\bstats\Metrics$1.class
 org\bstats\Metrics.class
 org\bstats\Metrics$AdvancedPie.class
 org\bstats\Metrics$SimplePie.class
+io\github\simplex\CheaperChains.class
 org\bstats\Metrics$DrilldownPie.class
 org\bstats\Metrics$MultiLineChart.class
 org\bstats\Metrics$AdvancedBarChart.class
 org\bstats\Metrics$CustomChart.class
-dev\coomware\CheaperChains.class
 org\bstats\Metrics$SingleLineChart.class
